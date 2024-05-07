@@ -24,8 +24,8 @@ The database was initiated by Sean, who spearheaded the movement to make basebal
 
 ### Useful Links
 
-- [Baseball Database Documentation](https://drive.google.com/file/d/1wok0XQRPb45LDw33Py-Lsm4rwhwjULWj/view?usp=sharing)
-- [Create Database from AWS Snapshot](https://drive.google.com/file/d/11HxkezzoWUUCzvW133iCpB6LBq-ou5_G/view?usp=sharing)
+- [Baseball Database Documentation](/Baseball%20Database%20Documentation.pdf)
+- [Create Database from AWS Snapshot](/Create%20database%20from%20AWS%20Snapshot.pdf)
 
 ### Copyright Notice & Limited Use License
 
